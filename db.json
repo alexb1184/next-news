@@ -1,0 +1,8 @@
+{
+    "employeeOfTheMonth" : {
+        "name": "alex",
+        "position": "Web developer",
+        "image": "https://static.theceomagazine.net/wp-content/uploads/2018/10/15093202/elon-musk-700x467.jpg",
+        "description": "Dev guy"
+    }
+}
